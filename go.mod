@@ -1,3 +1,3 @@
-module github.com/danrodsg/gerador-nfe-go.git
+module github.com/danrodsg/gerador-nfe-go
 
 go 1.25.1
